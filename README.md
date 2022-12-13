@@ -6,4 +6,4 @@ To make this model work, first you have to provide a dataset of arcs, with (n,sa
 
 
 
-![plot](./visualized.png)
+![plot](./vis.png)
